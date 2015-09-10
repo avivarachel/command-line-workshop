@@ -1,1 +1,2 @@
-./files-with-logo.txt
+/home/ubuntu/workspace/src/assets/images/decodemtl-logo-white.png
+/home/ubuntu/workspace/src/assets/images/decodemtl-logo-black.png
