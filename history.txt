@@ -1,0 +1,13 @@
+    1  cd ..
+    2  clone https://github.com/avivarachel/command-line-workshop.git
+    3  cd ..
+    4  git clone https://github.com/avivarachel/command-line-workshop.git
+    5  nano command-line-workshop
+    6  cd command-line-workshop
+    7  branch cmd-history
+    8  git status
+    9  git branch cmd-history
+   10  git checkout master
+   11  git branch cmd-history
+   12  git checkout cmd-history 
+   13  history > history.txt
